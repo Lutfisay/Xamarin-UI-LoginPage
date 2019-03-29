@@ -1,0 +1,5 @@
+D:\Projelerim\App1\App1\App1.Android\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+D:\Projelerim\App1\App1\App1.Android\obj\Debug\44\App1.Android.nuget.stamp
+D:\Projelerim\App1\App1\App1.Android\obj\Debug\44\App1.Android.csprojAssemblyReference.cache
+D:\Projelerim\App1\App1\App1.Android\obj\Debug\44\libraryimports.cache.stamp
+D:\Projelerim\App1\App1\App1.Android\obj\Debug\44\res.flag

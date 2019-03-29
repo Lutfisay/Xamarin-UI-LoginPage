@@ -1,0 +1,12 @@
+D:\Projelerim\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\Projelerim\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\Projelerim\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\Projelerim\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
